@@ -1,2 +1,2 @@
 a = 0 
-training_examples = 100 * 1000
+training_examples = 200 * 1000
