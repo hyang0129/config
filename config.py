@@ -1,3 +1,3 @@
-a = 1
-training_examples = 100 * 1000
+a = 0
+training_examples = 200 * 1000
 epochs = 25
